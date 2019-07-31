@@ -1,0 +1,92 @@
+[
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/1449355730"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/1593275994"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/1593276036"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/B07TNVRH33"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/1593279280"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/1974431479"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/1491946008"
+    },
+    {
+        "NAME": "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython 2nd Edition",
+        "SALE_PRICE": null,
+        "CATEGORY": "Books > Computers & Technology > Databases & Big Data",
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": "In Stock.",
+        "MOSTVALUE": "In Stock.",
+        "URL": "http://www.amazon.com/dp/1491957662"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/1980953902"
+    },
+    {
+        "NAME": null,
+        "SALE_PRICE": null,
+        "CATEGORY": null,
+        "ORIGINAL_PRICE": null,
+        "AVAILABILITY": null,
+        "MOSTVALUE": null,
+        "URL": "http://www.amazon.com/dp/B07TWT9R9T"
+    }
+]
