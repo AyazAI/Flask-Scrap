@@ -26,6 +26,6 @@ requests==2.22.0
 six==1.11.0
 soupsieve==1.9.2
 SQLAlchemy==1.2.8
-urllib3==1.25.3
+urllib3==1.26.5
 Werkzeug==0.14.1
 WTForms==2.2.1
