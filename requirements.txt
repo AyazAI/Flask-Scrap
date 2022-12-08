@@ -1,6 +1,6 @@
 alembic==0.9.9
 beautifulsoup4==4.7.1
-certifi==2019.6.16
+certifi==2022.12.7
 chardet==3.0.4
 click==6.7
 cx-Oracle==7.2.0
